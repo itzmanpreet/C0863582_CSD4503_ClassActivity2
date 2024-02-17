@@ -5,7 +5,7 @@ app.use(express.static("../index.html"));
 
 // http://localhost:3000/
 app.get('/C0863582', function (req, res) {
-res.send('<h1>Hello - C0863582 – Manpreet Singh</h1> ')
+res.send('<h1>Hello - C0863582 - Manpreet Singh</h1> ')
 })
 
 // http://localhost:3000/hello
